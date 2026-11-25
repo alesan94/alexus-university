@@ -1,0 +1,2 @@
+Texturas y muebles: Poly Haven (polyhaven.com), licencia CC0.
+Personas: modelo Xbot y animaciones, del repositorio de three.js (three.js es MIT; el modelo y las animaciones proceden de Mixamo).
